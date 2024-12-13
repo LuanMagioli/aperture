@@ -1,0 +1,1 @@
+salvar o histórico de mensagens em um arquivo de texto (por dia)
